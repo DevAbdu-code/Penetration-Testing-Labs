@@ -60,17 +60,24 @@ Confirmed suspicions about an intern (IEUser) checking for administrative access
 ## 📷 Investigation Screenshots
 
 ### 🔹 Step 1: PowerShell Downgrade Found (ID 400)
-![PowerShell Downgrade](powershell_downgrade.PNG)
+<img width="1357" height="676" alt="powershell_downgrade" src="https://github.com/user-attachments/assets/26570785-57ed-457c-9ed3-342f1ae28cf0" />
+
 
 ### 🔹 Step 2: Log Clear Record ID (XML View)
-![Record ID](record%20ID.png)
+<img width="1342" height="699" alt="record ID" src="https://github.com/user-attachments/assets/ad250380-0d74-4ac9-b7f4-f4d09c122dbb" />
+
 
 ### 🔹 Step 3: Emotet Encoded Payload & Attack Date
-![Attack Date](attack_date.png)
-![Execution Process ID](ExecutionProcessID.png)
+<img width="1361" height="696" alt="attack_date" src="https://github.com/user-attachments/assets/3a4c6534-67c4-4a08-839b-c68609eb5cc4" />
+
+### Execution Process ID 
+
+<img width="1366" height="734" alt="ExecutionProcessID" src="https://github.com/user-attachments/assets/35949d96-1ded-4621-bd26-ef29e1bf4962" />
+
 
 ### 🔹 Step 4: Intern Group Enumeration
-![Suspicious Intern](suspicious%20intern%20and%20group.png)
+<img width="1346" height="722" alt="suspicious intern and group" src="https://github.com/user-attachments/assets/400fed3d-acc8-4da1-bf2c-325cd3069974" />
+
 
 ---
 
