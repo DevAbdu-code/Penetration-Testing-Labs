@@ -10,7 +10,7 @@
 
 ---
 
-## 📖 Table of Contents
+##  Table of Contents
 - [About This Repository](#-about-this-repository)
 - [Writeups](#-writeups)
 - [Key Learnings](#-key-learnings)
@@ -18,7 +18,7 @@
 
 ---
 
-## 📌 About This Repository
+##  About This Repository
 
 This repository contains my **CTF writeups** and **security tools** – practical work from penetration testing challenges, capture the flag competitions, and security research.
 
@@ -43,7 +43,7 @@ This repository contains my **CTF writeups** and **security tools** – practica
 
 ---
 
-## 🏆 Key Learnings
+##  Key Learnings
 
 ### From Each Writeup:
 
