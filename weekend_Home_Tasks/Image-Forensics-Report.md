@@ -1,4 +1,4 @@
-#  CTF Challenge 3: Image Forensics Report
+#  CTF Challenge : Image Forensics Report
 
  Location: Weekend_home_Tasks/Challenge3
 
